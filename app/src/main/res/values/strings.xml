@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E3MDEstebanJosue</string>
+    <string name="hint_entrada">Escriba un nº</string>
+    <string name="hint_salida">Numeros primos resultantes</string>
+    <string name="label_nums_primos">NÚMEROS PRIMOS</string>
+    <string name="devolver">DEVOLVER</string>
+    <string name="main"></string>
+</resources>
